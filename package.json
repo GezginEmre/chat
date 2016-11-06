@@ -1,0 +1,25 @@
+{
+  "name": "nodeChat",
+  "version": "0.0.0",
+  "description": "Nodejs chat denemesi",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/GezginEmre/chat"
+  },
+  "keywords": [
+    "chat"
+  ],
+  "author": "Emre CABI <emrecabi85@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GezginEmre/chat/issues"
+  },
+  "dependencies": {
+    "express": "~4.14.0"
+  }
+}
