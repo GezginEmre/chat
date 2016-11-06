@@ -1,0 +1,17 @@
+html
+  head
+    title=title
+    script(src="assets/plugins/jquery/dist/jquery.min.js")
+    script(src="assets/scripts/chat.js")
+  body
+    h1=title
+    div#messages
+    form#message-form
+      input(
+        type='text'
+        name='message'
+      )
+      input(
+        type="submit"
+        value="Gönder"
+      )

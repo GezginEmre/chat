@@ -1,0 +1,17 @@
+{
+  "name": "nodeChat",
+  "description": "Nodejs chat denemesi",
+  "main": "server.js",
+  "authors": [
+    "Emre CABI <emrecabi85@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "chat"
+  ],
+  "homepage": "https://github.com/GezginEmre/chat",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
